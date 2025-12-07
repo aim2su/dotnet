@@ -1,2 +1,2 @@
 # dotnet
-👨‍💻 C# & .NET projects — experiments, practice apps, and backend services. 
+👨‍💻 .NET & ASP.NET projects — experiments, practice apps, and backend services. 
